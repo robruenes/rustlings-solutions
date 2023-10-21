@@ -1,0 +1,11 @@
+/Users/robruenes/rustlings/target/debug/deps/assert_cmd-b9596969df6733b9.rmeta: /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/Users/robruenes/rustlings/target/debug/deps/assert_cmd-b9596969df6733b9.d: /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md:

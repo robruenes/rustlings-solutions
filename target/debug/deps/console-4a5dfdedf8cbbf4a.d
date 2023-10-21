@@ -1,0 +1,11 @@
+/Users/robruenes/rustlings/target/debug/deps/console-4a5dfdedf8cbbf4a.rmeta: /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/robruenes/rustlings/target/debug/deps/console-4a5dfdedf8cbbf4a.d: /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs /Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs
+
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/lib.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/common_term.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/kb.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/term.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/unix_term.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/utils.rs:
+/Users/robruenes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.5/src/ansi.rs:
