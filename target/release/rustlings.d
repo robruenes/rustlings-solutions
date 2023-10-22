@@ -1,1 +1,0 @@
-/Users/robruenes/rustlings/target/release/rustlings: /Users/robruenes/rustlings/src/exercise.rs /Users/robruenes/rustlings/src/main.rs /Users/robruenes/rustlings/src/project.rs /Users/robruenes/rustlings/src/run.rs /Users/robruenes/rustlings/src/ui.rs /Users/robruenes/rustlings/src/verify.rs
